@@ -36,6 +36,8 @@
 		747C01011FDA36F400B0F066 /* 零食饮料@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 747C00EF1FDA36F300B0F066 /* 零食饮料@2x.png */; };
 		747C01021FDA36F400B0F066 /* 零食饮料@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 747C00F01FDA36F300B0F066 /* 零食饮料@3x.png */; };
 		747C01051FDA48AE00B0F066 /* FunctionButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 747C01041FDA48AD00B0F066 /* FunctionButton.m */; };
+		74CD57E71FFCD4B00019E4A2 /* My_LaunchScreen.png in Resources */ = {isa = PBXBuildFile; fileRef = 74CD57E51FFCD4AF0019E4A2 /* My_LaunchScreen.png */; };
+		74CD57E81FFCD4B00019E4A2 /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 74CD57E61FFCD4AF0019E4A2 /* icon.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -98,6 +100,8 @@
 		747C00F01FDA36F300B0F066 /* 零食饮料@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "零食饮料@3x.png"; sourceTree = "<group>"; };
 		747C01031FDA48AD00B0F066 /* FunctionButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FunctionButton.h; sourceTree = "<group>"; };
 		747C01041FDA48AD00B0F066 /* FunctionButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FunctionButton.m; sourceTree = "<group>"; };
+		74CD57E51FFCD4AF0019E4A2 /* My_LaunchScreen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = My_LaunchScreen.png; sourceTree = "<group>"; };
+		74CD57E61FFCD4AF0019E4A2 /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -184,6 +188,8 @@
 				747C00DC1FDA34BE00B0F066 /* TakeAway.pch */,
 				747C00A31FDA337800B0F066 /* AppDelegate.h */,
 				747C00A41FDA337800B0F066 /* AppDelegate.m */,
+				74CD57E61FFCD4AF0019E4A2 /* icon.png */,
+				74CD57E51FFCD4AF0019E4A2 /* My_LaunchScreen.png */,
 				747C00A91FDA337800B0F066 /* Main.storyboard */,
 				747C00AC1FDA337800B0F066 /* Assets.xcassets */,
 				747C00AE1FDA337800B0F066 /* LaunchScreen.storyboard */,
@@ -345,8 +351,10 @@
 				747C00F41FDA36F400B0F066 /* search2@3x.png in Resources */,
 				747C00F81FDA36F400B0F066 /* 家用电器@3x.png in Resources */,
 				747C00F61FDA36F400B0F066 /* 全部商品@3x.png in Resources */,
+				74CD57E71FFCD4B00019E4A2 /* My_LaunchScreen.png in Resources */,
 				747C00F21FDA36F400B0F066 /* 10@3x.png in Resources */,
 				747C00AB1FDA337800B0F066 /* Main.storyboard in Resources */,
+				74CD57E81FFCD4B00019E4A2 /* icon.png in Resources */,
 				747C00F11FDA36F400B0F066 /* 10@2x.png in Resources */,
 				747C00FC1FDA36F400B0F066 /* 手机平板@3x.png in Resources */,
 				747C01001FDA36F400B0F066 /* 电脑办公@3x.png in Resources */,
