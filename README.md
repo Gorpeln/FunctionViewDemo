@@ -1,2 +1,3 @@
 # FunctionViewDemo
-![](https://github.com/GorpelnChen/FunctionViewDemo/blob/master/screenshot/FunctionViewDemo.png)
+
+功能分类区 FunctionView
